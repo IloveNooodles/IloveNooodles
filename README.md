@@ -6,7 +6,8 @@ I specialize in building robust backend systems, infrastructure, and managing de
 <p align="center">
   <br />
   <samp>
-    <a href="https://mgarebaldhie.me">me</a> .
+    <a href="https://mgarebaldhie.com">me</a> .
+    <a href="https://garden.mgarebaldhie.com">second brain</a> .
     <a href="https://www.linkedin.com/in/garebaldhie/" target="_blank">linkedin</a> .
     <a href="https://www.instagram.com/mgarebaldhie " target="_blank">instagram</a> .
     <a href="https://open.spotify.com/user/eragiare " target="_blank">spotify</a> .
