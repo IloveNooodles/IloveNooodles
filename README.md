@@ -1,5 +1,7 @@
 # 👋 Hi I'm Gare
-<img src="https://komarev.com/ghpvc/?username=ilovenooodles&color=red&style=for-the-badge"/>
+
+![Image](https://komarev.com/ghpvc/?username=ilovenooodles&color=red&style=for-the-badge)
+
 I specialize in building robust backend systems, infrastructure, and managing deployments through Kubernetes. While my focus is on the backend, I'm also comfortable with frontend development. I love doing CTF challenges to expand my knowledge not only in cybersecurity but also in web development and new tech trends.     
   
   
@@ -18,7 +20,7 @@ I specialize in building robust backend systems, infrastructure, and managing de
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer II | [Money Forward](https://moneyforward.com/) | Nov 2024 - Now |
+| Software Engineer III | [Money Forward](https://moneyforward.com/) | Nov 2024 - Now |
 | Software Engineer | [Matchmade](https://www.matchmade.io/) | Mar 2023 - Sep 2024 |
 | Software Engineer Intern | [Makmur](https://www.makmur.id/id) | May 2023 - Aug 2023 |
 | Software Engineer Intern | [Garena](https://garena.co.id/) | Aug 2022 - Nov 2022 |
