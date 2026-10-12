@@ -1,7 +1,5 @@
 # 👋 Hi I'm Gare
 
-![Image](https://komarev.com/ghpvc/?username=ilovenooodles&color=red&style=for-the-badge)
-
 I specialize in building robust backend systems, infrastructure, and managing deployments through Kubernetes. While my focus is on the backend, I'm also comfortable with frontend development. I love doing CTF challenges to expand my knowledge not only in cybersecurity but also in web development and new tech trends.     
   
   
@@ -27,5 +25,4 @@ I specialize in building robust backend systems, infrastructure, and managing de
 | Software Development Engineer Intern | [Sayurbox](https://www.sayurbox.com/) | Nov 2021 - Jul 2022 |
  
 # 🏆 Github Stats
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IloveNooodles&theme=xcode&hide_border=true&area=true&grid=false&custom_title=My%20activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ilovenooodles&theme=dracula&column=8&no-bg=false&no-frame=true&margin-h=15&margin-w=15&rank=-C)](https://github.com/ryo-ma/github-profile-trophy)
+![](./profile-3d-contrib/profile-season-animate.svg)
