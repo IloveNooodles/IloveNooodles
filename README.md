@@ -25,4 +25,10 @@ I specialize in building robust backend systems, infrastructure, and managing de
 | Software Development Engineer Intern | [Sayurbox](https://www.sayurbox.com/) | Nov 2021 - Jul 2022 |
  
 # 🏆 Github Stats
+<!-- <img src="https://ghstats.dev/api/card?username=IloveNooodles&theme=tokyonight&hide_title=true&hide=prs%2Cissues" alt="Description of the image">
+<img src="https://ghstats.dev/api/langs?username=IloveNooodles&theme=tokyonight&hide_title=true&max_langs=12&layout=grid" alt="Description of the image">
+<img src="./profile-3d-contrib/profile-season-animate.svg" alt="Description of the image"> -->
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=IloveNooodles&theme=tokyonight&hide_title=true&hide=prs%2Cissues)
+![Top Languages](https://ghstats.dev/api/langs?username=IloveNooodles&theme=tokyonight&hide_title=true&max_langs=12&layout=grid)
 ![](./profile-3d-contrib/profile-season-animate.svg)
